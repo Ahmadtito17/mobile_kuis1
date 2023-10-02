@@ -4,7 +4,7 @@
 
 Tugas 1 <br><br>
 ![image](https://github.com/mandraa/dart_kuis1/assets/112377642/c45f57de-4854-4abb-a111-b0cadd78053d)<br>
-Output<br>![image](https://github.com/mandraa/dart_kuis1/assets/112377642/116aa8d7-03b8-4bda-b614-328c59c9c058)
+Output<br>![image](images/kode1.jpg)
 <br>
 Penjelasan: Menampilkan sebuah tulisan Hello Word <br><br>
 Tugas 2 <br><br>
