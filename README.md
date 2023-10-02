@@ -3,8 +3,8 @@
   NIM   : 2141720265 <br><br>**
 
 Tugas 1 <br><br>
-![image](https://github.com/mandraa/dart_kuis1/assets/112377642/c45f57de-4854-4abb-a111-b0cadd78053d)<br>
-Output<br>![image](images/kode1.jpg)
+![image](images/kode1.jpg)<br>
+Output<br>![image](images/output1.jpg)
 <br>
 Penjelasan: Menampilkan sebuah tulisan Hello Word <br><br>
 Tugas 2 <br><br>
